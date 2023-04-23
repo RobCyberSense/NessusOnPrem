@@ -30,7 +30,7 @@ Wait for the script to complete. It will configure the necessary firewall rules 
 <strong>Alternate Firewall Script</strong>
 
 The script "AuthenticatedScan.ps1" allows you to preset the <strong>allowedIP</strong> variable by changing the parameter in the script. To use this script, follow these steps:
-1. Copy the AuthenticatedScan.ps1 script to the target machines.
+1. Copy the <strong>AuthenticatedScan.ps1</strong> script to the target machines.
 2. Open an elevated PowerShell prompt on each target machine.
 3. Navigate to the directory where you copied the script.
 4. Open the script in a text editor.
