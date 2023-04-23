@@ -4,9 +4,9 @@
 If you're using Nessus Professional to perform authenticated scans on on-premise Windows computers, you may encounter issues with the default firewall rules preventing Nessus from accessing the required services. To make things easier, this repository provides scripts to quickly configure the required firewall rules, as well as to revert the settings afterwards.
 
 <h3>Requirements</h3>
-- Nessus Professional
-- PowerShell (version 3.0 or higher)
-- Administrator access to the target computer(s)
+<ul><li>Nessus Professional</li>
+<li>PowerShell (version 3.0 or higher)</li>
+<li>Administrator access to the target computer(s)</li></ul>
 
 <h3>Usage</h3>
 
